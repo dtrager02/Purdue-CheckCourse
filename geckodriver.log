@@ -500,3 +500,11 @@ extension-storage: migration complete
 1627875279779	Marionette	INFO	Listening on port 58702
 1627875280146	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: moz-extension://1d2a3d18-b66f-4763-8337-aa27ef0dc9cb/background.js, line 46: TypeError: resources.experiments is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59636
+1627875402442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\daniel\\AppData\\Local\\Temp\\rust_mozprofileuo2ujh"
+1627875403322	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1627875405406	Marionette	INFO	Listening on port 59646
+1627875405651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1d2a3d18-b66f-4763-8337-aa27ef0dc9cb/background.js, line 46: TypeError: resources.experiments is null
