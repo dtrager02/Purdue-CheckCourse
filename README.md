@@ -1,5 +1,6 @@
 # Purdue-CheckCourse
 Checks Unitime for you and Alerts with basic ringtone and text
+
 0. pip install selenium
 1. open untime.ipynb in Jupyter
 2. Run the first cell
